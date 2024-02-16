@@ -1,0 +1,10 @@
+name: emotion-detector
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - pickle
